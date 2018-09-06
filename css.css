@@ -1,0 +1,26 @@
+
+#wrap {
+	margin: auto;
+	height: 100px;
+	width: 800px;
+}
+#top {
+	background-color: #C60;
+	text-align: center;
+	margin: auto;
+	height: 100px;
+	width: 800px;
+}
+#menu {
+	background-color: #69C;
+	text-align: center;
+	height: 30px;
+	width: 800px;
+}
+#main {
+	background-color: #C60;
+	text-align: center;
+	margin: auto;
+	height: 500px;
+	width: 800px;
+}
